@@ -1,6 +1,11 @@
 # citibike_project
 Using the Citibike dataset, I will work on my SQL and Python skills to make sense of the data.
 
+I split the project into two phases, a _data engineering_ phase, and a _modeling_ phase.
+- The data engineering phase includes identifying and downloading the data, combining the data into a `CSV`, and make a SQL database.
+  - The last step of phase one is to create a Tableau dashboard.
+- The modeling phase will be done in Python and will take advantage of the GIS capabilities of various packages availabile to the platform to visualize and understand the flow of bike traffic on various timescales.
+
 ## Steps of the project are outlined below:
 ### Phase One: Data Engineering
 - [X] Identify the data from [Citibike](https://ride.citibikenyc.com/system-data):  
