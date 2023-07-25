@@ -2,6 +2,7 @@
 Using the Citibike dataset, I will work on my SQL and Python skills to make sense of the data.
 
 ## Steps of the project are outlined below:
+### Phase One: Data Engineering
 - [X] Identify the data from [Citibike](https://ride.citibikenyc.com/system-data):  
 ![ezgif com-optimize](https://github.com/sralter/citibike_project/assets/25013680/b067f46f-cfc7-4eaa-afc9-3e3a5594ed8f)
 
@@ -20,7 +21,7 @@ Using the Citibike dataset, I will work on my SQL and Python skills to make sens
 
     - [X] Add the CSV to a common CSV, but only adding the header from the first CSV in the group:  
 
-- [X] Some simple EDA on the created file:  
+- [X] Some simple EDA on the created file using the _polars_ package:  
 ![ezgif com-optimize-7](https://github.com/sralter/citibike_project/assets/25013680/640e439b-ef81-4f62-b5c2-bf987dbe32d2)
 
 - [X] Normalize tables to prepare to...  
@@ -33,7 +34,9 @@ Using the Citibike dataset, I will work on my SQL and Python skills to make sens
 
 - [ ] Run SQL queries either in Jupyter Lab or in MySQLWorkbench  
 
+- [ ] Make **Tableau** dashboard
 
+### Phase Two: Modeling the Flow of Bike Traffic
 
-- [ ] Model data in Python and use OpenStreetMap  
+- [ ] Present data in Python and use OpenStreetMap  
 
