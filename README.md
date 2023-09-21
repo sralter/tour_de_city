@@ -1,7 +1,7 @@
 # Tour de City
 Using the Citibike dataset, I will work on my SQL and Python skills to make sense of the data.
 
-I named the project Tour de City as the ultimate goal of this project is to create a bicycle and running route recommendation model that also incorporates sightseeing.
+I named the project **Tour de City** as the ultimate goal of this project is to create a bicycle and running route recommendation model that also incorporates sightseeing.
 
 I split the project into two phases, a _data engineering_ phase, and a _modeling_ phase.
 - The data engineering phase includes identifying and downloading the data, combining the data into a `CSV`, and make a SQL database.
