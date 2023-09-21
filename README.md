@@ -1,4 +1,4 @@
-# Tour de City, a citibike_project
+# Tour de City
 Using the Citibike dataset, I will work on my SQL and Python skills to make sense of the data.
 
 I named the project Tour de City as the ultimate goal of this project is to create a bicycle and running route recommendation model that also incorporates sightseeing.
