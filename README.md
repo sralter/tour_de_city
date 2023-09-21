@@ -41,7 +41,7 @@ I split the project into two phases, a _data engineering_ phase, and a _modeling
 
 - [ ] Run SQL queries either in Jupyter Lab or in MySQLWorkbench  
 
-- [ ] Make **Tableau** dashboard
+- [X] Make **Tableau** dashboard
 
 ### Phase Two: Modeling the Flow of Bike Traffic
 
