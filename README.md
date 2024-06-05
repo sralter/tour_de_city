@@ -43,6 +43,9 @@ I split the project into two phases, a _data engineering_ phase, and a _modeling
 
 - [X] Make **Tableau** dashboard
 
+- EDA on dataset:
+![Pairplot showing relationship between features in dataset](https://github.com/sralter/tour_de_city/assets/25013680/2371da7e-f71d-445a-b152-fd900c9acf90)
+
 ### Phase Two: Modeling the Flow of Bike Traffic
 
 - [ ] Present data in Python and use OpenStreetMap  
