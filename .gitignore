@@ -1,3 +1,4 @@
 .DS_Store
 scratch_code/
 .ipynb_checkpoints/
+*.db
