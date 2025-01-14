@@ -1,16 +1,17 @@
 # Tour de City
 Using the Citibike dataset, I will work on my SQL and Python skills to make sense of the data.
 
-I named the project **Tour de City** as the ultimate goal of this project is to create a bicycle and running route recommendation model that also incorporates sightseeing.
+I named the project **Tour de City** as the ultimate goal of this project is to create a bicycle and running route recommendation model that also incorporates sightseeing. We'll see if that happens anytime soon! But I can be forgiven for dreaming big. In the meantime, we can work on more straightforward goals, described below.
 
 I split the project into two phases, a _data engineering_ phase, and a _modeling_ phase.
 - The data engineering phase includes identifying and downloading the data, combining the data into a `CSV`, and make a SQL database.
-  - The last step of phase one is to create a Tableau dashboard.
+  - The last step of phase one is to create a Tableau dashboard and visualizations.
 - The modeling phase will be done in Python and will take advantage of the GIS capabilities of various packages availabile to the platform to visualize and understand the flow of bike traffic on various timescales.
 
 ## Steps of the project are outlined below:
 ### Phase One: Data Engineering
-- [X] Identify the data from [Citibike](https://ride.citibikenyc.com/system-data):  
+
+I identified the data from [Citibike](https://ride.citibikenyc.com/system-data) 
 ![ezgif com-optimize](https://github.com/sralter/citibike_project/assets/25013680/b067f46f-cfc7-4eaa-afc9-3e3a5594ed8f)
 
 - [X] Download the data using web inspector and Python (`requests`, `re`, and `zipfile`):  
