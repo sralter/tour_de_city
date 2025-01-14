@@ -11,16 +11,9 @@ I split the project into two phases, a _data engineering_ phase, and a _modeling
 ## Steps of the project are outlined below:
 ### Phase One: Data Engineering
 
-I identified the data from [Citibike](https://ride.citibikenyc.com/system-data) 
-![ezgif com-optimize](https://github.com/sralter/citibike_project/assets/25013680/b067f46f-cfc7-4eaa-afc9-3e3a5594ed8f)
+I identified the data from [Citibike]([https://ride.citibikenyc.com/system-data](https://citibikenyc.com/system-data) and downloaded the data the Python tools `requests`, `re`, and `zipfile`.
 
-- [X] Download the data using web inspector and Python (`requests`, `re`, and `zipfile`):  
-![ezgif com-optimize-3](https://github.com/sralter/citibike_project/assets/25013680/31a6e954-7d0d-4867-a5f4-7ecd2fe88299)
-
-- [X] Examine pattern of headers of CSV:  
-![ezgif com-optimize-4](https://github.com/sralter/citibike_project/assets/25013680/ea312ded-27b6-43d7-b058-f265676634cc)
-
-- [X] Combine CSVs that have the same headers
+After downloading each .zip file of trips, I combined  Combine CSVs that have the same headers
     - [X] Compare headers of CSVs:  
 ![ezgif com-optimize-5](https://github.com/sralter/citibike_project/assets/25013680/48976048-625f-4ba5-a25c-3f0ac73ae69e)
 
