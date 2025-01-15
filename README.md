@@ -40,7 +40,7 @@ Fun fact: the `rides` table has over 55 million rows in it!
 
 Using **DuckDB**'s functionality, I added the tables to a database. Given the size of the `rides` table, I used **DuckDB**'s CLI to directly add it to the database:
 
-![Adding tables to database using DuckDB](..figs/Screenshot 2025-01-05 at 00.09.20.png)
+![Adding tables to database using DuckDB](figs/Screenshot 2025-01-05 at 00.09.20.png)
 
 ### Phase Two: Modeling the Flow of Bike Traffic
 
