@@ -36,7 +36,7 @@ After downloading each .zip file of trips, I combined the CSVs that have the sam
   * type (classic, electric, or unknown)
   * id
 
-Fun fact: the `rides` table has over 55 million rows in it!
+Fun fact: the `rides` table has over 55 million rows in it! I am using the **parquet** file format and the **Polars** package to handle the table transformations.
 
 Using **DuckDB**'s functionality, I added the tables to a database. Given the size of the `rides` table, I used **DuckDB**'s CLI to directly add it to the database:
 
